@@ -4,6 +4,3 @@ def is_even(num):
 print(is_even(4))  
 print(is_even(5))  
 
-OUTPUT:
-True
-False
