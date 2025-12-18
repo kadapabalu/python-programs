@@ -4,6 +4,3 @@ if age>=18:
 else:
     print("You are not eligible to vote")
 
-OUTPUT:
-age=21
-You are eligible to vote
