@@ -20,5 +20,3 @@ def bfs(visited, graph, node):
                 queue.append(neighbour)
 bfs(visited,graph,'A')
 
-OUTPUT:
-ABCDEF
