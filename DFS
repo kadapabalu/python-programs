@@ -15,10 +15,3 @@ def dfs(visited, graph, node):
             dfs (visited, graph, neighbour)
 dfs(visited,graph,'A')
 
-OUTPUT:
-A
-B
-D
-E
-F
-C
